@@ -1,27 +1,19 @@
-# 👋 Welcome to My Tech Playground!
+# 👋 Welcome to My Corner of the Web!
 
-Welcome to my corner of the web, where creativity meets code. Let’s build something amazing together!
+Feel free to explore my repositories to see how I bring creativity and precision to every project. Let’s connect and build something amazing together!
 
-## About Me 🌟
+## 🌟 About Me
 
-Hi, I’m Beáta Németh—a passionate full-stack web developer with a talent for turning ideas into seamless user experiences. My journey into web development began with a Ph.D. in neurobiology and biochemistry, where I developed strong analytical skills and a systems-thinking mindset. Now, I use those abilities to craft efficient, innovative, and scalable web solutions.
+I’m Beáta Németh, a passionate full-stack web developer who thrives on transforming ideas into functional and engaging user experiences. I enjoy collaborating with Agile teams, where challenges become opportunities for innovation.
 
-## My Approach 🚀
+My journey into tech started with a Ph.D. in neurobiology and biochemistry, followed by a self-directed leap into web development. Guided by the wisdom of a senior IT mentor, I’ve merged my scientific precision with my love for coding to build creative, scalable solutions.
 
-I thrive in Agile environments, where collaboration and creativity turn challenges into opportunities. With a background in science and self-directed learning, I excel at analyzing complex systems, identifying patterns, and implementing solutions that prioritize functionality and user satisfaction.
-
-## Skills That Define Me 💡
+## 💡 Skills That Define Me 
 
 ✔ **Systematization & Systems Thinking**: Whether solving a tech challenge or analyzing a dataset, I approach problems with clarity and purpose.  
 ✔ **Rapid Learning & Adaptability**: From mastering new frameworks to quirky hobbies like touch-typing with ten fingers, I embrace learning as a lifelong process.  
 ✔ **Abstract Thinking**: Breaking down problems, identifying their core, and presenting insights in a clear, concise way is my strength.  
 ✔ **Self-Driven & Collaborative**: I thrive in remote environments, value autonomy, and am equally at home in team settings, where innovation flourishes.
-
-## Fun Fact 🎯
-
-My unconventional transition into tech was driven by a desire to build and create. Guided by a senior IT mentor, I combined my scientific background with cutting-edge technology, proving that a career change is not only possible but also deeply rewarding.
-
-Feel free to explore my repositories to see how I bring creativity and precision to every project. Let’s connect and build something amazing together!
 
 ## 🚀 Technologies and Tools
 
@@ -72,11 +64,20 @@ Feel free to explore my repositories to see how I bring creativity and precision
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-34A853?style=for-the-badge&logo=google-drive&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-FF9900?style=for-the-badge&logo=diagrams.net&logoColor=white)
 ![Loom](https://img.shields.io/badge/Loom-5724C9?style=for-the-badge&logo=loom&logoColor=white)
+
+## 🌱  Interests and Growth Areas 
+I’m constantly exploring and eager to grow in:  
+☁️ Cloud Technologies  
+🐳 Docker  
+🔧 Terraform  
+🐍 Python  
+🤖 Artificial Intelligence (AI)  
 
 ---
 
-### 🔗 Connect with Me
+## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nemethbeata/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beatanemeth)
