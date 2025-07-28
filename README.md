@@ -8,7 +8,7 @@ I'm a full-stack web developer with a scientific background and a passion for bu
 
 My current focus is on deepening my DevOps skills—particularly in automation, observability, and cloud-native tools—while leveraging my full-stack background to bridge development and infrastructure.
 
-## 💡 Skills That Define Me 
+## 🧭 Skills That Define Me 
 
 ✔ **Systematization & Systems Thinking**: Whether solving a tech challenge or analyzing a dataset, I approach problems with clarity and purpose.  
 ✔ **Rapid Learning & Adaptability**: From mastering new frameworks to quirky hobbies like touch-typing with ten fingers, I embrace learning as a lifelong process.  
@@ -16,12 +16,14 @@ My current focus is on deepening my DevOps skills—particularly in automation, 
 ✔ **Self-Driven & Collaborative**: I thrive in remote environments, value autonomy, and am equally at home in team settings, where innovation flourishes.
 
 ## 📘 Selected Projects:
-[From Manual Chaos to Modular Automation: Building a Scalable n8n Workflow for a Foundation](https://medium.com/@beataspace)  
-[Not Just a Website: Building a Scalable Digital Backbone for a Nonprofit Team](https://www.linkedin.com/pulse/just-website-building-scalable-digital-backbone-nonprofit-nemeth-jgnke/?trackingId=De2jPeb%2BPHHsxncpWxDnbQ%3D%3D)
+- <a href="https://medium.com/@beataspace" target="_blank">
+      From Manual Chaos to Modular Automation: Building a Scalable n8n Workflow for a Foundation</a> 
+- <a href="https://www.linkedin.com/pulse/just-website-building-scalable-digital-backbone-nonprofit-nemeth-jgnke/?trackingId=De2jPeb%2BPHHsxncpWxDnbQ%3D%3D" target="_blank">
+      Not Just a Website: Building a Scalable Digital Backbone for a Nonprofit Team</a>
 
 ## 🚀 Technologies and Tools
 
-### 🧠 Backend, Automation & DevOps
+### 🔄 Backend, Automation & DevOps
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -54,7 +56,7 @@ My current focus is on deepening my DevOps skills—particularly in automation, 
 
 ---
 
-### 🔧 Version Control
+### 🔍 Version Control
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -77,7 +79,7 @@ My current focus is on deepening my DevOps skills—particularly in automation, 
 
 ---
 
-### 🤝 Collaboration & Productivity
+### 🧰 Collaboration & Productivity
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -94,14 +96,14 @@ I’m constantly exploring and eager to grow in:
 🐳 Docker  
 🔧 Terraform  
 🐍 Python  
-🛠️ Automated Workflows
+🔁 Automated Workflows  
 🤖 Artificial Intelligence (AI)  
 
 
 
-## 🔗 Connect with Me
-Open to collaboration—especially on purpose-driven tech, where I can work with engineers, solve complex problems, and contribute to impactful systems.
+## ✨ Connect with Me
+Open to collaboration—especially on purpose-driven tech, where I can work with engineers, solve complex problems, and contribute to impactful systems.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nemethbeata/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beatanemeth)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nemethbeata/)  
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beatanemeth)
 
