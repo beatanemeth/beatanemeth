@@ -1,12 +1,15 @@
-# 👋 Welcome to My Corner of the Web!
+# 👋 Welcome to My Corner of the Web!  
 
-Feel free to explore my repositories to see how I bring creativity and precision to every project. Let’s connect and build something amazing together!
+Feel free to explore my repositories to see how I bring creativity and precision to every project. Let’s connect and build something amazing together!  
 
-## 🌟 About Me
+## 🌟 About Me  
 
-I'm a full-stack web developer with a scientific background and a passion for building reliable, scalable digital systems that solve real-world problems.
+I’m a full-stack developer with a scientific background, focused on building reliable and scalable digital systems that solve real-world problems.  
 
-My current focus is on deepening my DevOps skills—particularly in automation, observability, and cloud-native tools—while leveraging my full-stack background to bridge development and infrastructure.
+My current interests lie in DevOps and AI engineering—especially automation, cloud-native tools, and modern AI architectures—where I enjoy bridging application development and infrastructure.  
+
+Coming from neurobiology and biochemistry, I approach software systems analytically and experimentally. My journey started with the Node.js–MongoDB–React stack, evolved through Next.js and Firebase, and now includes AI-driven systems, n8n automations, Dockerized services, and cloud-based workflows (GCP).  
+
 
 ## 🧭 Skills That Define Me 
 
@@ -16,17 +19,22 @@ My current focus is on deepening my DevOps skills—particularly in automation, 
 ✔ **Self-Driven & Collaborative**: I thrive in remote environments, value autonomy, and am equally at home in team settings, where innovation flourishes.
 
 ## 📘 Selected Projects:
+
+- **[Custom Wix Data Chat](https://github.com/beatanemeth/ai-engineering-custom-wix-data-chat)** – Unified LangChain-RAG system for custom Wix JSON data with stateful conversational AI.  
 - <a href="https://medium.com/@beataspace" target="_blank">
       From Manual Chaos to Modular Automation: Building a Scalable n8n Workflow for a Foundation</a> 
 - <a href="https://www.linkedin.com/pulse/just-website-building-scalable-digital-backbone-nonprofit-nemeth-jgnke/?trackingId=De2jPeb%2BPHHsxncpWxDnbQ%3D%3D" target="_blank">
       Not Just a Website: Building a Scalable Digital Backbone for a Nonprofit Team</a>
 
+<br></br>
 ## 🚀 Technologies and Tools
 
-### 🔄 Backend, Automation & DevOps
+### 🔄 Backend, AI, Automation & DevOps
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0B5FFF?style=for-the-badge&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-6A5ACD?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-ef4f4f?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -88,7 +96,7 @@ My current focus is on deepening my DevOps skills—particularly in automation, 
 ![Draw.io](https://img.shields.io/badge/Draw.io-FF9900?style=for-the-badge&logo=diagrams.net&logoColor=white)
 ![Loom](https://img.shields.io/badge/Loom-5724C9?style=for-the-badge&logo=loom&logoColor=white)
 
-
+<br></br>
 
 ## 🌱  Interests and Growth Areas 
 I’m constantly exploring and eager to grow in:  
@@ -97,13 +105,13 @@ I’m constantly exploring and eager to grow in:
 🔧 Terraform  
 🐍 Python  
 🔁 Automated Workflows  
-🤖 Artificial Intelligence (AI)  
+🤖 AI Engineering    
 
+<br></br>
 
+## ✨ Connect with Me  
+Open to collaboration—especially on purpose-driven tech, where I can work with engineers, solve complex problems, and contribute to impactful systems.    
 
-## ✨ Connect with Me
-Open to collaboration—especially on purpose-driven tech, where I can work with engineers, solve complex problems, and contribute to impactful systems.  
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nemethbeata/)  
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beatanemeth)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nemethbeata/)    
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beatanemeth)  
 
