@@ -1,30 +1,27 @@
 # 👋 Welcome to My Corner of the Web!  
 
-Feel free to explore my repositories to see how I bring creativity and precision to every project. Let’s connect and build something amazing together!  
-
-## 🌟 About Me  
-
 I am a **systems-oriented developer** with a scientific background, focused on the space where software meets infrastructure. My work centers on building reliable, scalable systems that solve real-world problems by bridging the gap between application logic and the cloud.  
 
-Currently, I am leveraging my **full-stack** experience to evolve into **AI Engineering** and **Data Science**. I’m driven by how **cloud-native tools**, and **DevOps** practices can transform intelligent models into production-ready architectures.  
+Currently, I am leveraging my **full-stack** experience to evolve into **AI Engineering** and **Data Engineering**. I’m driven by how **cloud-native tools**, and **DevOps** practices can transform intelligent models into production-ready architectures.  
 
 Coming from **neurobiology and biochemistry**, I approach software analytically and experimentally. My technical journey began with the Node.js–MongoDB–React stack and has evolved into **AI-driven systems**, **n8n automations**, **Dockerized services**, and **cloud-based workflows (GCP)**.  
 
 
-## 🧭 Skills That Define Me 
-
-✔ **Systematization & Systems Thinking**: Whether solving a tech challenge or analyzing a dataset, I approach problems with clarity and purpose.  
-✔ **Rapid Learning & Adaptability**: From mastering new frameworks to quirky hobbies like touch-typing with ten fingers, I embrace learning as a lifelong process.  
-✔ **Abstract Thinking**: Breaking down problems, identifying their core, and presenting insights in a clear, concise way is my strength.  
-✔ **Self-Driven & Collaborative**: I thrive in remote environments, value autonomy, and am equally at home in team settings, where innovation flourishes.
-
-## 📘 Selected Projects:
-- <a href="https://medium.com/@beataspace/making-ai-queries-work-from-rags-limits-to-mcp-in-practice-0605238353bd" target="_blank">Making AI Queries Work: From RAG’s Limits to MCP in Practice</a>
-- <a href="https://medium.com/@beataspace/the-ai-engineering-challenge-a-three-step-journey-into-rag-langchain-and-real-world-data-90badbd139f0" target="_blank">The AI Engineering Challenge: A Three-Step Journey into RAG, LangChain, and Real-World Data</a>  
+## 📘 Selected Projects  
+Processes and architectural decisions are documented on ***Medium***. Below are the technical implementations and source code for those projects.  
+- <a href="https://medium.com/@beataspace/making-ai-queries-work-from-rags-limits-to-mcp-in-practice-0605238353bd" target="_blank">Making AI Queries Work: From RAG’s Limits to MCP in Practice</a>  
+- <a href="https://medium.com/@beataspace/the-ai-engineering-challenge-a-three-step-journey-into-rag-langchain-and-real-world-data-90badbd139f0" target="_blank">The AI Engineering Challenge: A Three-Step Journey into RAG, LangChain, and Real-World Data</a>    
 - <a href="https://medium.com/@beataspace/from-manual-chaos-to-modular-automation-building-a-scalable-n8n-workflow-for-a-foundation-f4d9f959e00f" target="_blank">
-      From Manual Chaos to Modular Automation: Building a Scalable n8n Workflow for a Foundation</a> 
+      From Manual Chaos to Modular Automation: Building a Scalable n8n Workflow for a Foundation</a>   
 - <a href="https://www.linkedin.com/pulse/just-website-building-scalable-digital-backbone-nonprofit-nemeth-jgnke/?trackingId=De2jPeb%2BPHHsxncpWxDnbQ%3D%3D" target="_blank">
-      Not Just a Website: Building a Scalable Digital Backbone for a Nonprofit Team</a>
+      Not Just a Website: Building a Scalable Digital Backbone for a Nonprofit Team</a>  
+
+## 🧭 Skills That Define Me  
+
+✔ **Systematization & Systems Thinking**: Whether solving a tech challenge or analyzing a dataset, I approach problems with clarity and purpose.    
+✔ **Rapid Learning & Adaptability**: From mastering new frameworks to quirky hobbies like touch-typing with ten fingers, I embrace learning as a lifelong process.   
+✔ **Abstract Thinking**: Breaking down problems, identifying their core, and presenting insights in a clear, concise way is my strength.  
+✔ **Self-Driven & Collaborative**: I thrive in remote environments, value autonomy, and am equally at home in team settings, where innovation flourishes.  
 
 <br></br>
 ## 🚀 Technologies and Tools
@@ -101,19 +98,13 @@ Coming from **neurobiology and biochemistry**, I approach software analytically 
 
 ## 🌱  Interests and Growth Areas 
 I’m constantly exploring and eager to grow in:  
-☁️ Cloud Technologies  
-🐳 Docker  
-🔧 Terraform  
-🐍 Python  
-🔁 Automated Workflows  
-🤖 AI Engineering    
+☁️ Cloud Native: GCP, Cloud Technologies  
+🐳 Infrastructure: Docker, Terraform  
+🔁 Automation: Python, Automated Workflows (n8n)  
+🏗️ Data & AI: Data Engineering, AI Architectures  
 
 <br></br>
 
 ## ✨ Connect with Me  
 Open to collaboration—especially on purpose-driven tech, where I can work with engineers, solve complex problems, and contribute to impactful systems.    
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nemethbeata/)    
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beatanemeth)
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@beataspace)
 
