@@ -6,6 +6,8 @@ _Transforming Manual Chaos into Scalable Digital Backbones_
 
 I don't just write code; I architect ecosystems. With 15+ years of experience managing high-complexity systems—from neural networks in the lab to automated infrastructure in production—I bridge the gap between biological precision and software scalability.
 
+👉 [https://beatanemeth.github.io/portfolio/](https://beatanemeth.github.io/portfolio/)
+
 ---
 
 ### 🛠️ Architectural Focus
