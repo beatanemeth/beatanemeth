@@ -1,10 +1,10 @@
 # Hi, I'm Beáta Németh 👋
 
-### Systems-First Engineer & Architect
+### Systems Engineer & Architect – Data & AI Integration
 
 _Transforming Manual Chaos into Scalable Digital Backbones_
 
-I don't just write code; I architect ecosystems. With 15+ years of experience managing high-complexity systems—from neural networks in the lab to automated infrastructure in production—I bridge the gap between biological precision and software scalability.
+I don't just write code; I architect ecosystems. With 15+ years of experience managing high-complexity systems – from neural networks in the lab to automated infrastructure in production – I bridge the gap between biological precision and software scalability.
 
 👉 [https://beatanemeth.github.io/portfolio/](https://beatanemeth.github.io/portfolio/)
 
@@ -46,16 +46,16 @@ A decade in neurobiology and biochemistry taught me to debug the most complex sy
 
 ---
 
-### InsightHubAI — The Archive Assistant
+### InsightHubAI – The Archive Assistant
 
 - **The Scenario:** Institutional memory is often lost in old meeting notes and articles.
 - **The Solution:** An "Archive Assistant" (Digital Memoir) that preserves every event, meeting, and writing. It allows non-technical staff to generate complex weekly and yearly reports through a
   predefined set of AI tools (MCP), bypassing the need for manual data processing.
-- Explore the repo: <a href="https://github.com/beatanemeth/ai-engeneering-study-mcp" target="_blank">Making AI Queries Work: From RAG’s Limits to MCP in Practice</a>
+- Explore the repo: <a href="https://github.com/beatanemeth/ai-engineering-study-mcp" target="_blank">Making AI Queries Work: From RAG’s Limits to MCP in Practice</a>
 
 ---
 
-### ContentNavigatorAI — The Knowledge-Based Browser
+### ContentNavigatorAI – The Knowledge-Based Browser
 
 - **The Scenario:** Teams struggle to find specific information within a vast, subject-heavy CMS.
 - **The Solution:** A specialized Knowledge Assistant that allows foundations to "browse" their own internal knowledge base via a unified chat interface. It acts as a proficient subject-matter expert, turning static content into an interactive browser app.
@@ -74,7 +74,7 @@ A decade in neurobiology and biochemistry taught me to debug the most complex sy
 
 ## 🚀 Technologies and Tools
 
-### 📊 Data Engineering & AI Research
+### Data Engineering & AI Research
 
 ![DataEngineering](https://img.shields.io/badge/Data%20Engineering-FFD700?style=for-the-badge&logo=databricks&logoColor=black)
 ![DataScience](https://img.shields.io/badge/Data%20Science-20B2AA?style=for-the-badge&logo=scipy&logoColor=white)
@@ -85,7 +85,7 @@ A decade in neurobiology and biochemistry taught me to debug the most complex sy
 
  ---
 
-### ⚙️ Backend, Automation & Infrastructure
+### Backend, Automation & Infrastructure
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -96,7 +96,7 @@ A decade in neurobiology and biochemistry taught me to debug the most complex sy
 
 ---
 
-### 🎨 Frontend Development
+### Frontend Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -105,27 +105,27 @@ A decade in neurobiology and biochemistry taught me to debug the most complex sy
 
 ---
 
-### 💻 Programming Languages
+### Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
-### 🎨 Design Tools
+### Design Tools
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 🔍 Version Control
+### Version Control
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🧩 CMS and Marketing
+### CMS and Marketing
 
 ![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -135,13 +135,13 @@ A decade in neurobiology and biochemistry taught me to debug the most complex sy
 
 ---
 
-### 🛒 E-commerce
+### E-commerce
 
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 
 ---
 
-### 🧰 Collaboration & Productivity
+### Collaboration & Productivity
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -154,17 +154,17 @@ A decade in neurobiology and biochemistry taught me to debug the most complex sy
 
 ## 🌱  Interests and Growth Areas 
 I’m constantly exploring and eager to grow in:  
-☁️ Cloud Native: GCP, Cloud Technologies  
-🐳 Infrastructure: Docker, Terraform  
-🔁 Automation: Python, Automated Workflows (n8n)  
-🏗️ Data & AI: Data Engineering, AI Architectures  
+- Cloud Native: GCP, Cloud Technologies  
+- Infrastructure: Docker, Terraform  
+- Automation: Python, Automated Workflows  
+- Data & AI: Data Engineering, AI Architectures  
 
 <br></br>
 
-### 🤝 Let's Collaborate
-I enjoy working with engineers, solving complex problems, and contributing to impactful systems.
+## 🤝 Let's Collaborate
+I am energized by collaborating with engineers, tackling complex challenges, and building high-impact systems.
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nemethbeata/) — Drop me a message.
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beatanemeth/) — Explore my architectural approach.
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@beataspace) — Read my insights and experiences.
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nemethbeata/) – Drop me a message.
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beatanemeth/) – Explore my architectural approach.
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@beataspace) – Read my insights and experiences.
 
